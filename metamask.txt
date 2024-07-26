@@ -1,0 +1,2 @@
+what is metamask?
+its a brower extension that lets users interact directly with the ethereum blockchain,allows users to manage crypto assets and access decentralised apps(dApps) directly
