@@ -6,3 +6,14 @@ How to install metamask
 Go to metamask.io and click on add to chrome for chrome extension. Go to add wallet on the metamask site.beef up account with secret password.
 
 Introduction to solidity
+Writing my first solidity smart contract.
+lets find out what a smart contract is:a digital contract stored on a blockchain that is automatically executed when predetermined terms and conditions are met. 
+
+why solidity?
+its popular in the tech space.ethereum,binance smart chain(BSC),Polygon are written in Solidity Programming Language. huge projects in web3 like uniswap,compound,yearn,finance etc are 
+written in solidity.
+Course overview
+1.Tools we need to interact with as a smart contract developer
+2.Write your first solidity smart contract
+3.Shipping it to testnet and thennnn,interacting with it too
+4.understanding transactions on blockchains
